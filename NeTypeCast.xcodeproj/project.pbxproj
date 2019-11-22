@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		94D819C22387BBE20042CDBA /* NeTypeCast */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = NeTypeCast; sourceTree = BUILT_PRODUCTS_DIR; };
 		94D819C52387BBE20042CDBA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		94D819CC2387BC080042CDBA /* Extends.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Extends.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		94D819C42387BBE20042CDBA /* NeTypeCast */ = {
 			isa = PBXGroup;
 			children = (
+				94D819CC2387BC080042CDBA /* Extends.hpp */,
 				94D819C52387BBE20042CDBA /* main.cpp */,
 			);
 			path = NeTypeCast;
